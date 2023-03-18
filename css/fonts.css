@@ -1,0 +1,13 @@
+@font-face {
+    font-family: NotoSans;
+    src: url("/fonts/NotoSans/NotoSans-Medium.ttf");
+    font-weight: 100;
+}
+@font-face {
+    font-family: Calibre;
+    src: url("/fonts/Calibre/CalibreMedium.otf");
+}
+@font-face {
+    font-family: RobotoMono;
+    src: url("/fonts/Roboto_Mono/static/RobotoMono-Medium.ttf");
+}
